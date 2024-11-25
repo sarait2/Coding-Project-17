@@ -1,0 +1,4 @@
+cd path/to/tour-comparison-app
+npm install
+npm start
+
