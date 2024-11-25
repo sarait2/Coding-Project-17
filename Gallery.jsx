@@ -60,3 +60,4 @@ const Tour = ({ tour, onRemove }) => {
 };
 
 export default Gallery;
+
